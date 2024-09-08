@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Learning and building Cloud, DevOps, and MERN projects.
+🔭 Currently Learning and building Cloud, DevOps, and MERN projects. <br />
 🤾‍♂️ Hobbes: News, Running, Exercises, Technology Geek, Outdoor games, Music.
 
 
