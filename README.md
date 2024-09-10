@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Currently Learning and building Cloud, DevOps, and MERN projects. <br />
+🔭 Currently Learning and building Cloud, DevOps, and MERN projects, little - little DSA. <br />
 🤾‍♂️ Hobbes: News, Running, Exercises, Technology Geek, Outdoor games, Music.
-
+📲 Contact: harshvardhansingh2306@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshvardhan Singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshxrajawat) 
