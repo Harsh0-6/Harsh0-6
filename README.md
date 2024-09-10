@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Currently Learning and building Cloud, DevOps, and MERN projects, little - little DSA. <br />
-🤾‍♂️ Hobbes: News, Running, Exercises, Technology Geek, Outdoor games, Music.
+🤾‍♂️ Hobbes: News, Running, Exercises, Technology Geek, Outdoor games, Music. <br />
 📲 Contact: harshvardhansingh2306@gmail.com
 
 ## 🌐 Socials:
